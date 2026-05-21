@@ -4,6 +4,8 @@
 Basically installs SunPy using uv and then does something from
 [https://docs.sunpy.org](https://docs.sunpy.org).
 
+I use the uv python package manager rather than pip, so uv has to be installed.
+
 I had to :
 ```
 uv python pin 3.14
