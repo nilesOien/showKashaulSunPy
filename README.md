@@ -30,3 +30,5 @@ to run the python in showKashaulSunPy.py
 
 The first run may take time since it needs to initialize everything.
 
+SunPy is a python module in the same way that SolarSoft is an IDL module.
+
