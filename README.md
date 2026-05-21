@@ -28,4 +28,5 @@ Then run :
 ```
 to run the python in showKashaulSunPy.py
 
+The first run may take time since it needs to initialize everything.
 
