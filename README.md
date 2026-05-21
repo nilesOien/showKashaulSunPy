@@ -16,7 +16,11 @@ Then run :
 ```
 ./installPackages.sh
 ```
-to init a uv project.
+to init a uv project. If you use pip and a reasonably recent version of python then you can :
+```
+pip install sunpy[all]
+```
+I just use uv here to get a recent python version (and hence a recent SunPy version).
 
 Then run :
 ```
